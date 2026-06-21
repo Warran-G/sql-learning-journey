@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis — Power BI Dashboard
+# Customer Churn Analysis & Retention Strategy Dashboard (Power BI)
 
 An interactive Power BI dashboard analyzing customer churn patterns for a telecommunications company, identifying key drivers of customer loss and translating findings into actionable retention strategies.
 
@@ -24,6 +24,19 @@ The result is a 5-page interactive dashboard built for a non-technical, decision
 - **Python (pandas)** — initial dataset exploration and analysis
 - **GitHub** — version control and project hosting
 
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence Reporting
+- DAX Measures
+- Customer Churn Analysis
+- KPI Development
+- Data Storytelling
+- Power BI Dashboard Design
+- Python (Pandas)
+
 ## 📑 Dashboard Structure
 
 | Page | Contents |
@@ -41,17 +54,34 @@ The result is a 5-page interactive dashboard built for a non-technical, decision
 - **Payment method:** Electronic check users churn at **45.29%**, nearly 3x the rate of customers on automatic payment methods (15–17%).
 - **Tenure:** Churn is highest in the first 12 months (**48.28%**) and drops below 2% beyond 70 months — early-stage experience is a critical risk window.
 
-## ✅ Recommendations
+# Recommendations
 
-1. **Incentivize contract upgrades** — offer pricing discounts or loyalty perks to convert month-to-month customers into longer-term contracts.
-2. **Drive automatic payment adoption** — reduce friction for electronic check users through incentives or simplified autopay onboarding.
-3. **Strengthen early-stage retention** — focus onboarding, engagement, and support efforts on the first 90 days of the customer relationship.
+1. Incentivize contract upgrades** — offer pricing discounts or loyalty perks to convert month-to-month customers into longer-term contracts.
+2. Drive automatic payment adoption** — reduce friction for electronic check users through incentives or simplified autopay onboarding.
+3. Strengthen early-stage retention** — focus onboarding, engagement, and support efforts on the first 90 days of the customer relationship.
 
 **Bottom line:** New, short-contract, manually-billed customers represent the highest-risk segment. Concentrating retention spend on this overlapping group — rather than spreading it evenly — will deliver the greatest reduction in churn for the lowest cost.
 
-## 📸 Screenshots
+## 💼 Business Impact
 
-*(Add dashboard screenshots here — drag image files into this section or link to a `/screenshots` folder in the repo)*
+If the company successfully reduces churn among month-to-month customers and electronic check users, customer retention can improve significantly.
+
+This analysis identifies high-risk customer segments and provides targeted recommendations that can help reduce churn while maximizing retention spending efficiency.
+
+
+## 📸 Dashboard Preview
+
+### Overview
+
+![Overview](images/churn_overview.png)
+
+### Contract Analysis
+
+![Contract Analysis](images/contract_ananlysis.png)
+
+### Payment Method Analysis
+
+![Payment Analysis](images/payment_method_analysis.png)
 
 ## 🚀 How to View
 
@@ -61,7 +91,7 @@ The result is a 5-page interactive dashboard built for a non-technical, decision
 
 ## 👤 Author
 
-Maxwel — Engineering diploma student | Self-directed Power BI / data analysis project
+Warran Ganyani | Self-directed Power BI / data analysis project
 
 ---
 
